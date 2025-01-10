@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R3uZGaAku7w=",
+  "dgSpecHash": "iups78HxwiZ7aLoVJcVUYZ83sWStywur8RBDqaqdbdYY7f/yvTbHP2hq9PUyMYgoPi6y98thWYn9jijDAoZ0ew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Desenvolvedor\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\Desenvolvedor\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.5.0\\microsoft.identitymodel.jsonwebtokens.5.5.0.nupkg.sha512",
@@ -55,16 +55,5 @@
     "C:\\Users\\Desenvolvedor\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Desenvolvedor\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1902",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.IdentityModel.Tokens.Jwt' 5.5.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
-      "libraryId": "System.IdentityModel.Tokens.Jwt",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  "logs": []
 }

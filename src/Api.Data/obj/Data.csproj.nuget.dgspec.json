@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Data\\Data.csproj": {}
+    "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Data\\Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Data\\Data.csproj": {
+    "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Data\\Data.csproj",
+        "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Data\\Data.csproj",
         "packagesPath": "C:\\Users\\Desenvolvedor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Data\\obj\\",
+        "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Desenvolvedor\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -25,8 +25,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Domain\\Domain.csproj"
+              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Domain\\Domain.csproj": {
+    "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Desenvolvedor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Desenvolvedor\\AppData\\Roaming\\NuGet\\NuGet.Config"
