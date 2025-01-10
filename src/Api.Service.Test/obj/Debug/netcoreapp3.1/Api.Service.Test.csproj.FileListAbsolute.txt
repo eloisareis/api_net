@@ -148,12 +148,6 @@ C:\curso_api_netcore\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Te
 C:\curso_api_netcore\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.genruntimeconfig.cache
 c:\curso_api_netcore\src\Api.Service.Test\bin\Debug\netcoreapp3.1\Faker.NETCore.dll
 c:\curso_api_netcore\src\Api.Service.Test\bin\Debug\netcoreapp3.1\de-DE\Faker.NETCore.resources.dll
-C:\Users\Desenvolvedor\Documents\netcore\prj_3.1.426\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.dll
-C:\Users\Desenvolvedor\Documents\netcore\prj_3.1.426\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.pdb
-C:\Users\Desenvolvedor\Documents\netcore\prj_3.1.426\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.csprojAssemblyReference.cache
-C:\Users\Desenvolvedor\Documents\netcore\prj_3.1.426\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.AssemblyInfoInputs.cache
-C:\Users\Desenvolvedor\Documents\netcore\prj_3.1.426\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.AssemblyInfo.cs
-C:\Users\Desenvolvedor\Documents\netcore\prj_3.1.426\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.csproj.CoreCompileInputs.cache
 C:\Users\Desenvolvedor\Documents\netcore\prj_3.1.426\src\Api.Service.Test\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Users\Desenvolvedor\Documents\netcore\prj_3.1.426\src\Api.Service.Test\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
 C:\Users\Desenvolvedor\Documents\netcore\prj_3.1.426\src\Api.Service.Test\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
@@ -296,5 +290,11 @@ C:\Users\Desenvolvedor\Documents\netcore\prj_3.1.426\src\Api.Service.Test\bin\De
 C:\Users\Desenvolvedor\Documents\netcore\prj_3.1.426\src\Api.Service.Test\bin\Debug\netcoreapp3.1\CrossCutting.pdb
 C:\Users\Desenvolvedor\Documents\netcore\prj_3.1.426\src\Api.Service.Test\bin\Debug\netcoreapp3.1\Domain.pdb
 C:\Users\Desenvolvedor\Documents\netcore\prj_3.1.426\src\Api.Service.Test\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Desenvolvedor\Documents\netcore\prj_3.1.426\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.csprojAssemblyReference.cache
+C:\Users\Desenvolvedor\Documents\netcore\prj_3.1.426\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.AssemblyInfoInputs.cache
+C:\Users\Desenvolvedor\Documents\netcore\prj_3.1.426\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.AssemblyInfo.cs
+C:\Users\Desenvolvedor\Documents\netcore\prj_3.1.426\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.csproj.CoreCompileInputs.cache
 C:\Users\Desenvolvedor\Documents\netcore\prj_3.1.426\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.csproj.CopyComplete
+C:\Users\Desenvolvedor\Documents\netcore\prj_3.1.426\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.dll
+C:\Users\Desenvolvedor\Documents\netcore\prj_3.1.426\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.pdb
 C:\Users\Desenvolvedor\Documents\netcore\prj_3.1.426\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.genruntimeconfig.cache
