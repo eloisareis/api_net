@@ -14,7 +14,12 @@
       "launchBrowser": true,
       "launchUrl": "weatherforecast",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "Seconds": "28800",
+        "MIGRATION": "APLICAR",
+        "DATABASE": "MYSQL",
+        "Audience": "ExemploAudience",
+        "Issuer": "ExemploIssuer"
       }
     },
     "application": {
@@ -23,7 +28,12 @@
       "launchUrl": "index.html",
       "applicationUrl": "http://localhost:5000",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "Seconds": "28800",
+        "MIGRATION": "APLICAR",
+        "DATABASE": "MYSQL",
+        "Audience": "ExemploAudience",
+        "Issuer": "ExemploIssue"
       }
     }
   }
