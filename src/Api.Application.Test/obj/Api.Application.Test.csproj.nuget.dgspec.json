@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Application.Test\\Api.Application.Test.csproj": {}
+    "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Application.Test\\Api.Application.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Application.Test\\Api.Application.Test.csproj": {
+    "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Application.Test\\Api.Application.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Application.Test\\Api.Application.Test.csproj",
+        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Application.Test\\Api.Application.Test.csproj",
         "projectName": "Api.Application.Test",
-        "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Application.Test\\Api.Application.Test.csproj",
+        "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Application.Test\\Api.Application.Test.csproj",
         "packagesPath": "C:\\Users\\Desenvolvedor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Application.Test\\obj\\",
+        "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Application.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Desenvolvedor\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -25,14 +25,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Application\\application.csproj": {
-                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Application\\application.csproj"
+              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Application\\application.csproj": {
+                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Application\\application.csproj"
               },
-              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Domain\\Domain.csproj"
+              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Domain\\Domain.csproj"
               },
-              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Service\\Service.csproj"
+              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Application\\application.csproj": {
+    "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Application\\application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Application\\application.csproj",
+        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Application\\application.csproj",
         "projectName": "application",
-        "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Application\\application.csproj",
+        "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Application\\application.csproj",
         "packagesPath": "C:\\Users\\Desenvolvedor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Application\\obj\\",
+        "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Desenvolvedor\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -111,14 +111,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.CrossCutting\\CrossCutting.csproj": {
-                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.CrossCutting\\CrossCutting.csproj"
+              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.CrossCutting\\CrossCutting.csproj"
               },
-              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Domain\\Domain.csproj"
+              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Domain\\Domain.csproj"
               },
-              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Service\\Service.csproj"
+              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -163,14 +163,14 @@
         }
       }
     },
-    "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+    "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.CrossCutting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "packagesPath": "C:\\Users\\Desenvolvedor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.CrossCutting\\obj\\",
+        "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Desenvolvedor\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -184,14 +184,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Data\\Data.csproj"
+              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Data\\Data.csproj"
               },
-              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Domain\\Domain.csproj"
+              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Domain\\Domain.csproj"
               },
-              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Service\\Service.csproj"
+              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -233,14 +233,14 @@
         }
       }
     },
-    "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Data\\Data.csproj": {
+    "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Data\\Data.csproj",
+        "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Data\\Data.csproj",
         "packagesPath": "C:\\Users\\Desenvolvedor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Data\\obj\\",
+        "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Desenvolvedor\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -254,8 +254,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Domain\\Domain.csproj"
+              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -309,14 +309,14 @@
         }
       }
     },
-    "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Domain\\Domain.csproj": {
+    "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Desenvolvedor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Desenvolvedor\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -365,14 +365,14 @@
         }
       }
     },
-    "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Service\\Service.csproj": {
+    "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Service\\Service.csproj",
+        "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Service\\Service.csproj",
         "packagesPath": "C:\\Users\\Desenvolvedor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Service\\obj\\",
+        "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Desenvolvedor\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -386,11 +386,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Data\\Data.csproj"
+              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Data\\Data.csproj"
               },
-              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Domain\\Domain.csproj"
+              "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }

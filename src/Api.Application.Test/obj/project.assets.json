@@ -8552,11 +8552,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Application.Test\\Api.Application.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Application.Test\\Api.Application.Test.csproj",
       "projectName": "Api.Application.Test",
-      "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Application.Test\\Api.Application.Test.csproj",
+      "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Application.Test\\Api.Application.Test.csproj",
       "packagesPath": "C:\\Users\\Desenvolvedor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Application.Test\\obj\\",
+      "outputPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Application.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Desenvolvedor\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -8570,14 +8570,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Application\\application.csproj": {
-              "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Application\\application.csproj"
+            "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Application\\application.csproj": {
+              "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Application\\application.csproj"
             },
-            "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Domain\\Domain.csproj"
+            "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Domain\\Domain.csproj"
             },
-            "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Service\\Service.csproj": {
-              "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_3.1.426\\src\\Api.Service\\Service.csproj"
+            "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Service\\Service.csproj": {
+              "projectPath": "C:\\Users\\Desenvolvedor\\Documents\\netcore\\prj_ini\\src\\Api.Service\\Service.csproj"
             }
           }
         }

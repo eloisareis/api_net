@@ -11,7 +11,7 @@ using Domain.Security;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 
-namespace Api.Service.Services
+namespace Service.Services
 {
     public class LoginService : ILoginService
     {

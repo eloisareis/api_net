@@ -3,9 +3,15 @@
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AExceptionDispatchInfo_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003F8a221793e4b13ae450dccb6e74f6985a273b27d67dca5c4bc2c2e56df33bfe7_003FExceptionDispatchInfo_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AFromServicesAttribute_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003Fef5e1a8a160540ff9d021c880a776af91af190_003F0a_003Fea79522f_003FFromServicesAttribute_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AIConfiguration_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F3c3a4b8cea7743f18fe58dbcf5e95e945388_003F70_003F9747628a_003FIConfiguration_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8e3fb08e_002Db8fd_002D4782_002Db064_002D9866b60065bd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="QuandoRequisitarUsuario" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AIEnumerable_00601_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003Fa8d4fa595ced467f968e9ff0b17c676b91e5c0_003Ff1_003Fcf8bb2d6_003FIEnumerable_00601_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=731e1e61_002D651a_002D4eba_002D910f_002Dbf47177afb3f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="UsuarioCrudCompleto" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::B3FF6FA5-249B-4E4B-88F9-943C940E3835::.NETCoreApp,Version=v3.1::Api.Integration.Test.Usuario.QuandoRequisitarUsuario&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C470A1D7-3D97-4DF2-89BE-BBB7D11A2C97::.NETCoreApp,Version=v3.1::Api.Data.Test.UsuarioCrudCompleto&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C470A1D7-3D97-4DF2-89BE-BBB7D11A2C97::.NETCoreApp,Version=v3.1::Api.Data.Test.UfGets&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C470A1D7-3D97-4DF2-89BE-BBB7D11A2C97::.NETCoreApp,Version=v3.1::Api.Data.Test.MunicipioCrudCompleto&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C470A1D7-3D97-4DF2-89BE-BBB7D11A2C97::.NETCoreApp,Version=v3.1::Api.Data.Test.CepCrudCompleto&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
+	
+	
 	</wpf:ResourceDictionary>

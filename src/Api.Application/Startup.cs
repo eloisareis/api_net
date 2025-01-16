@@ -11,9 +11,7 @@ using System.Collections.Generic;
 using AutoMapper;
 using CrossCutting.DependencyInjection;
 using CrossCutting.Mappings;
-using Data.Context;
 using Domain.Security;
-using Microsoft.EntityFrameworkCore;
 
 namespace application
 {
